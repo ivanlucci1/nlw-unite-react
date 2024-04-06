@@ -1,6 +1,6 @@
-import { ComponentProps } from "react";
+import { ComponentProps } from 'react';
 
-interface NavLinkProps extends ComponentProps<"a"> {
+interface NavLinkProps extends ComponentProps<'a'> {
 	children: string;
 }
 

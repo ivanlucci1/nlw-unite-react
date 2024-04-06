@@ -1,6 +1,6 @@
-import { NavLink } from "./nav-link";
+import { NavLink } from './nav-link';
 
-import nlwUniteIcon from "../assets/nlw-unite-icon.svg";
+import nlwUniteIcon from '../assets/nlw-unite-icon.svg';
 
 export function Header() {
 	return (
